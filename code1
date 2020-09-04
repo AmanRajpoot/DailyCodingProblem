@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
 	unordered_set<int> s;
-	int i,j,k,l,f,n,rem;
+	int i,k,f,n,rem;
 	cin>>n>>k;  int a[n];
 	for(i=0;i<n;i++)
 	{
